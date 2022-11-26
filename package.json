@@ -1,15 +1,15 @@
 {
-  "name": "chartjs-plugin-datalabels",
+  "name": "chartjs-plugin-datalabels-4",
   "homepage": "https://chartjs-plugin-datalabels.netlify.app",
   "description": "Chart.js plugin to display labels on data elements",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "license": "MIT",
   "main": "dist/chartjs-plugin-datalabels.js",
   "module": "dist/chartjs-plugin-datalabels.esm.js",
   "types": "types/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chartjs/chartjs-plugin-datalabels.git"
+    "url": "https://github.com/bolstycjw/chartjs-plugin-datalabels"
   },
   "keywords": [
     "chart.js",
